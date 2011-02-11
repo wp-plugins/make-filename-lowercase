@@ -31,7 +31,7 @@ For instance:
 3. Activate the plugin from your WordPress admin panel.
 4. Installation finished.
 
-== Screenshots =
+== Screenshots ==
 
 1. Upload a media filename of mixed case (in this case, the file MIXED-cAsE-filename.JPG).
 2. You'll see that the filename has been changed to all lowercase (mixed-case-filename.jpg) while preserving the case for the Title.
