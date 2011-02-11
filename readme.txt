@@ -33,9 +33,9 @@ For instance:
 
 == Screenshots ==
 
-1. Upload a media filename of mixed case (in this case, the file MIXED-cAsE-filename.JPG).
-2. You'll see that the filename has been changed to all lowercase (mixed-case-filename.jpg) while preserving the case for the Title.
-3. A image detail view from the Media Library showing the new File name as lowercase.
+1. Upload media filename of mixed case (in this case, the file MIXED-cAsE-filename.JPG).
+2. Filename changed to lowercase (mixed-case-filename.jpg) preserving the case for Title.
+3. An image detail view from the Media Library showing the new File name as lowercase.
 
 == Frequently Asked Questions ==
 
