@@ -10,7 +10,7 @@ Sets uploaded media filename to lowercase.
 
 == Description ==
 
-Sets uploaded media filename to lowercase as filter on '<a href="http://codex.wordpress.org/Function_Reference/sanitize_file_name">sanitize_file_name</a>'. Based on post at <a href="http://stackoverflow.com/questions/3259696/">Stack Overflow</a> asking if there is a way to "Rename files during upload within Wordpress 3.0 backend".
+Sets uploaded media filename to lowercase as filter on sanitize_file_name. Based on post at Stack Overflow asking if there is a way to "Rename files during upload within Wordpress 3.0 backend".
 
 Created for WordPress 3.0.1+ which saves any uploaded media filename (Image, Video, Audio) as lowercase. This effectively changes the name of the file at upload if a user were to upload a file with any uppercase characters.
 
@@ -33,6 +33,10 @@ For instance:
 
 == Screenshots =
 
+1. Upload a media filename of mixed case (in this case, the file MIXED-cAsE-filename.JPG).
+2. You'll see that the filename has been changed to all lowercase (mixed-case-filename.jpg) while preserving the case for the Title.
+3. A image detail view from the Media Library showing the new File name as lowercase.
+
 == Frequently Asked Questions ==
 
 = Why was this plugin created? =
@@ -47,8 +51,6 @@ It was useful to me and I wanted to work through the process of releasing a Word
 
 Upgradeability, portability, backwards compatibility, and other *abilities. If for some reason this function were in need of customization due to a WordPress version upgrade, the plugin will be centrally responsible for releasing the fix as opposed to updating the theme(s).
 
-== Screenshots ==
-
 == Changelog ==
 
 = 1.0.0 =
@@ -56,6 +58,4 @@ Upgradeability, portability, backwards compatibility, and other *abilities. If f
 * Initial release
 
 == Upgrade Notice ==
-
-
 
