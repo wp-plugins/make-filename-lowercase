@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Make Filename Lowercase
-Plugin URI: http://www.kliky.com/plugins/make-filename-lowercase/
-Description: Sets uploaded media filename to lowercase as filter on '<a href="http://codex.wordpress.org/Function_Reference/sanitize_file_name">sanitize_file_name</a>'. Based on post at <a href="http://stackoverflow.com/questions/3259696/">Stack Overflow</a> asking if there is a way to "Rename files during upload within Wordpress 3.0 backend".
+Plugin URI: http://www.redbridgenet.com/plugins/make-filename-lowercase/
+Description: Sets uploaded media filename to lowercase.
 Version: 1.0.0
-Author: Ed Reckers (Kliky.Com)
-Author URI: http://www.kliky.com
+Author: Ed Reckers (Red Bridge Internet)
+Author URI: http://www.redbridgenet.com
 License: GPL2
 */
 
-/*  Copyright 2011 Ed Reckers (email : ed@kliky.com)
+/*  Copyright 2011 Ed Reckers (email : ed@redbridgenet.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as

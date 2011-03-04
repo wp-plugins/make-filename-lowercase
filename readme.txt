@@ -1,9 +1,9 @@
 === Make Filename Lowercase ===
 Contributors: ereckers
-Donate link: http://www.kliky.com/make-payment/
+Donate link: http://www.redbridgenet.com/make-payment/
 Tags: strtolower, lowercase, filename, media, upload, sanitize_file_name, strtolower filename, lowercase filename, strtolower media, lowercase media, strtolower upload, lowercase upload
 Requires at least: 3.0.1
-Tested up to: 3.0.3
+Tested up to: 3.1
 Stable tag: 1.0.0
 
 Sets uploaded media filename to lowercase.
@@ -22,7 +22,11 @@ For instance:
 * imageFile.JPG > imagefile.jpg
 * ETC > etc
 
-* Note: WordPress sets file extension to lowercase. This plugin does a strtolower on the filename.
+<em>Note: WordPress sets file extension to lowercase. This plugin does a strtolower on the filename.</em>
+
+<h4>More Information</h4>
+
+Visit the <a href="http://www.redbridgenet.com/">Red Bridge Internet</a> site for more information about <a href="http://www.redbridgenet.com/plugins/make-filename-lowercase/">Make Filename Lowercase</a> plugin.
 
 == Installation ==
 
