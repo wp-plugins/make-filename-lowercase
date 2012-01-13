@@ -3,8 +3,8 @@ Contributors: ereckers
 Donate link: http://www.redbridgenet.com/make-payment/
 Tags: strtolower, lowercase, filename, media, upload, sanitize_file_name, strtolower filename, lowercase filename, strtolower media, lowercase media, strtolower upload, lowercase upload
 Requires at least: 3.0.1
-Tested up to: 3.1
-Stable tag: 1.0.0
+Tested up to: 3.3.1
+Stable tag: 1.0.1
 
 Sets uploaded media filename to lowercase.
 
@@ -56,6 +56,10 @@ It was useful to me and I wanted to work through the process of releasing a Word
 Upgradeability, portability, backwards compatibility, and other *abilities. If for some reason this function were in need of customization due to a WordPress version upgrade, the plugin will be centrally responsible for releasing the fix as opposed to updating the theme(s).
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Tested for 3.3.1
 
 = 1.0.0 =
 
