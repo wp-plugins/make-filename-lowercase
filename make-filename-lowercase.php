@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Make Filename Lowercase
-Plugin URI: http://www.redbridgenet.com/plugins/make-filename-lowercase/
+Plugin URI: http://www.redbridgenet.com/make-filename-lowercase/
 Description: Sets uploaded media filename to lowercase.
 Version: 1.0.1
 Author: Ed Reckers (Red Bridge Internet)

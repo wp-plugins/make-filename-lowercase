@@ -26,7 +26,7 @@ For instance:
 
 <h4>More Information</h4>
 
-Visit the <a href="http://www.redbridgenet.com/">Red Bridge Internet</a> site for more information about <a href="http://www.redbridgenet.com/plugins/make-filename-lowercase/">Make Filename Lowercase</a> plugin.
+Visit the <a href="http://www.redbridgenet.com/">Red Bridge Internet</a> site for more information about <a href="http://www.redbridgenet.com/make-filename-lowercase/">Make Filename Lowercase</a> plugin.
 
 == Installation ==
 
