@@ -3,7 +3,7 @@ Contributors: ereckers
 Donate link: http://www.redbridgenet.com/make-payment/
 Tags: strtolower, lowercase, filename, media, upload, sanitize_file_name, strtolower filename, lowercase filename, strtolower media, lowercase media, strtolower upload, lowercase upload
 Requires at least: 3.0.1
-Tested up to: 3.7.1
+Tested up to: 3.8
 Stable tag: 1.0.1
 
 Sets uploaded media filename to lowercase.
@@ -26,7 +26,7 @@ For instance:
 
 <h4>More Information</h4>
 
-Visit the <a href="http://www.redbridgenet.com/">Red Bridge Internet</a> site for more information about <a href="http://www.redbridgenet.com/plugins/make-filename-lowercase/">Make Filename Lowercase</a> plugin.
+Visit the <a href="http://www.redbridgenet.com/">Red Bridge Internet</a> site for more information about <a href="http://www.redbridgenet.com/make-filename-lowercase/">Make Filename Lowercase</a> plugin.
 
 == Installation ==
 
