@@ -9,7 +9,7 @@ Author URI: http://www.redbridgenet.com
 License: GPL2
 */
 
-/*  Copyright 2012 Ed Reckers (email : ed@redbridgenet.com)
+/*  Copyright 2014 Ed Reckers (email : ed@redbridgenet.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
