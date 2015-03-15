@@ -3,7 +3,7 @@ Contributors: ereckers
 Donate link: http://www.redbridgenet.com/make-payment/
 Tags: strtolower, lowercase, filename, media, upload, sanitize_file_name, strtolower filename, lowercase filename, strtolower media, lowercase media, strtolower upload, lowercase upload
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: 1.0.1
 
 Sets uploaded media filename to lowercase.
