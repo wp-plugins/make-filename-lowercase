@@ -59,8 +59,8 @@ Upgradeability, portability, backwards compatibility, and other *abilities. If f
 
 = 1.0.2 =
 
-* moved screenshot images to assets/ dir
-* added header banner for plugin repository
+* moved plugin screenshots to assets directory
+* added cool header banner for plugin repository
 
 = 1.0.1 =
 
